@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuthorius" alt="yuthorius" /></a> </p>
 
-- 🌱 I’m currently learning **MERG**
+- 🌱 I’m currently learning **Fronted Development**
 
 - 📫 How to reach me **theharshvardhan.sr@gmail.com**
 
