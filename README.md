@@ -1,7 +1,7 @@
 <p align="center">💫About Me💫</p>
 
 <div align="center">
-  <img height="151" src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif?cid=ecf05e47vcrtdxxop5c87s9gtvogorbenzedw63d4atlbwqi&ep=v1_gifs_search&rid=giphy.gif"  />
+  <img height="151" src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif?cid=ecf05e47s8n7xltlgdr59g1kb50os7ditr1lvsagqbwvd485&ep=v1_gifs_search&rid=giphy.gif"  />
 </div>
 
 <p align="center">
