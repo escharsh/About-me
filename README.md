@@ -100,7 +100,6 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 
 <div align="center">
   <h2>🐍Sname🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
   <br/><br/><br/>
 </div>
