@@ -45,17 +45,26 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuthorius&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
+<br>
+
+
 <p align="center">🏆 GitHub Trophies:</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yuthorius&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
+<br>
+
+
 <p align="center"> ✍️ Random Dev Quote:</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
+
+<br>
+
 
 <p align="center">🔝 Top Contributed Repo:</p>
 
@@ -69,6 +78,9 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   </a>
 </div>
 
+<br>
+
+
 <p align="center"> 💰 You can help me by Donating:</p>
 
 <div align="center">
@@ -76,6 +88,9 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
   </a>
 </div>
+
+<hr>
+<br>
 
 <div align="center">
   <h2>🐍 Sname 🐍</h2>
