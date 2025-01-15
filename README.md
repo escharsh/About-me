@@ -70,12 +70,6 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   <img src="https://github-contributor-stats.vercel.app/api?username=Yuthorius&limit=5&theme=radical&combine_all_yearly_contributions=true">
 </div>
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Yuthorius&icon=2&color=5">
-  </a>
-</div>
-
 <hr>
 <br>
 
