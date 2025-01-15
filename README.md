@@ -31,4 +31,6 @@
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Harshvardhan022) 
   
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Yuthorius/Yuthorius/output/snake.svg" alt="Snake animation" />
