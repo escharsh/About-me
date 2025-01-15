@@ -97,7 +97,6 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 </div>
 
 <hr>
-<br>
 
 <div align="center">
   <h2>🐍Sname🐍</h2>
