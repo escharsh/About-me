@@ -35,6 +35,8 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
+<br>
+
 <p align="center">📊 GitHub Stats:</p>
 
 <div align="center">
