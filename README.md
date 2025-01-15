@@ -1,9 +1,10 @@
 # 💫 About Me:
-Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>⚡ Key Skills & Expertise:<br><br>• Front-End: HTML, CSS, JavaScript, React<br><br>• Back-End: Node.js, Express.js,<br><br>• Databases: MySQL, MongoDB<br><br>• Other Tools: Git, GitHub<br><br>💡 Transforming an idea into a working application is what I find truly enjoyable and it allows me to combine both aspects of design and functionality. Additionally, I am always willing to learn new things and to adopt new emerging technologies and I seek to tackle complicated problems with sophisticated solutions.<br><br>🚀 Vision: To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations! </>
 
 <div align="center">
   <img height="151" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhwa2s3czB5cGwyeWxsNjA0M2k1YTB6ZWc0a2h1aHA4OGhjcHE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif"  />
 </div>
+
+Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>⚡ Key Skills & Expertise:<br><br>• Front-End: HTML, CSS, JavaScript, React<br><br>• Back-End: Node.js, Express.js,<br><br>• Databases: MySQL, MongoDB<br><br>• Other Tools: Git, GitHub<br><br>💡 Transforming an idea into a working application is what I find truly enjoyable and it allows me to combine both aspects of design and functionality. Additionally, I am always willing to learn new things and to adopt new emerging technologies and I seek to tackle complicated problems with sophisticated solutions.<br><br>🚀 Vision: To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations! </>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/escharshu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshvardhan-singh-6748a632a/) 
@@ -27,8 +28,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 ---
 [![](https://visitcount.itsvg.in/api?id=Yuthorius&icon=2&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Harshvardhan022) 
-
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Harshvardhan022) 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Yuthorius/Yuthorius/output/snake.svg" alt="Snake animation" />
