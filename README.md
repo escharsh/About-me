@@ -1,4 +1,4 @@
-<p align="center">💫 About Me:</p>
+<p align="center">💫About Me💫</p>
 
 <div align="center">
   <img height="151" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhwa2s3czB5cGwyeWxsNjA0M2k1YTB6ZWc0a2h1aHA4OGhjcHE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif"  />
@@ -11,7 +11,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center"> 🌐 Socials:</p>
+<p align="center"> 🌐Socials🌐</p>
 
 <div align="center">
   <a href="https://instagram.com/escharshu">
@@ -25,7 +25,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center"> 💻 Tech Stack:</p>
+<p align="center"> 👨🏻‍💻Tech Stack👨🏻‍💻</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -44,7 +44,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center">📊 GitHub Stats:</p>
+<p align="center">📊GitHub Stats📊</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuthorius&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>
@@ -55,7 +55,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center">🏆 GitHub Trophies:</p>
+<p align="center">🏆GitHub Trophies🏆</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yuthorius&theme=radical&no-frame=false&no-bg=false&margin-w=4">
@@ -64,7 +64,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center"> ✍️ Random Dev Quote:</p>
+<p align="center"> ✍️Random Dev Quote✍️</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
@@ -73,7 +73,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center">🔝 Top Contributed Repo:</p>
+<p align="center">🔝Top Contributed Repo🔝</p>
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Yuthorius&limit=5&theme=radical&combine_all_yearly_contributions=true">
@@ -88,7 +88,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center"> 💰 You can help me by Donating:</p>
+<p align="center"> 💰You can help me by Donating💰</p>
 
 <div align="center">
   <a href="https://paypal.me/@Harshvardhan022">
@@ -100,7 +100,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <br>
 
 <div align="center">
-  <h2>🐍 Sname 🐍</h2>
+  <h2>🐍Sname🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
   <br/><br/><br/>
