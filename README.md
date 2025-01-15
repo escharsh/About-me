@@ -8,6 +8,9 @@
 Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>⚡ Key Skills & Expertise:<br><br>• Front-End: HTML, CSS, JavaScript, React<br><br>• Back-End: Node.js, Express.js,<br><br>• Databases: MySQL, MongoDB<br><br>• Other Tools: Git, GitHub<br><br>💡 Transforming an idea into a working application is what I find truly enjoyable and it allows me to combine both aspects of design and functionality. Additionally, I am always willing to learn new things and to adopt new emerging technologies and I seek to tackle complicated problems with sophisticated solutions.<br><br>🚀 Vision: To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations!
 </p>
 
+<hr>
+<br>
+
 <p align="center"> 🌐 Socials:</p>
 
 <div align="center">
@@ -18,6 +21,9 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
 </div>
+
+<hr>
+<br>
 
 <p align="center"> 💻 Tech Stack:</p>
 
@@ -35,6 +41,7 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
+<hr>
 <br>
 
 <p align="center">📊 GitHub Stats:</p>
@@ -45,8 +52,8 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuthorius&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
+<hr>
 <br>
-
 
 <p align="center">🏆 GitHub Trophies:</p>
 
@@ -54,8 +61,8 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   <img src="https://github-profile-trophy.vercel.app/?username=Yuthorius&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
+<hr>
 <br>
-
 
 <p align="center"> ✍️ Random Dev Quote:</p>
 
@@ -63,8 +70,8 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
 
+<hr>
 <br>
-
 
 <p align="center">🔝 Top Contributed Repo:</p>
 
@@ -78,8 +85,8 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
   </a>
 </div>
 
+<hr>
 <br>
-
 
 <p align="center"> 💰 You can help me by Donating:</p>
 
