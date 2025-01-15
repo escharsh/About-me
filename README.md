@@ -1,4 +1,4 @@
-💫 About Me:
+<p align="center">💫 About Me:</p>
 
 <div align="center">
   <img height="151" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamhwa2s3czB5cGwyeWxsNjA0M2k1YTB6ZWc0a2h1aHA4OGhjcHE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif"  />
