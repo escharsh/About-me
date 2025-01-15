@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-Hi, I'm Harsh<br>I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>Transforming an idea into a working application is what I find truly enjoyable and it allows me to combine both aspects of design and functionality. Additionally, I am always willing to learn new things and to adopt new emerging technologies and I seek to tackle complicated problems with sophisticated solutions.<br><br>🚀 Vision🚀<br><br>To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations!
+Hi, I'm Harsh<br>I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>Transforming an idea into a working application is what I find truly enjoyable and it allows me to combine both aspects of design and functionality. Additionally, I am always willing to learn new things and to adopt new emerging technologies and I seek to tackle complicated problems with sophisticated solutions.<br><br>🚀 Vision🚀<br>To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations!
 </p>
 
 <hr>
