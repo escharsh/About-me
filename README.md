@@ -64,15 +64,6 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
-<p align="center"> ✍️Random Dev Quote✍️</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>
-
-<hr>
-<br>
-
 <p align="center">🔝Top Contributed Repo🔝</p>
 
 <div align="center">
@@ -88,18 +79,28 @@ Hi, I'm Harsh! 👋<br>I am a B.Tech Student and a passionate Full-Stack Develop
 <hr>
 <br>
 
+<p align="center"> ✍️Random Dev Quote✍️</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
+
+<hr>
+<br>
+
+
+<p align="center">🐍Sname🐍</p>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
+</div>
+
+<hr>
+
 <p align="center"> 💰You can help me by Donating💰</p>
 
 <div align="center">
   <a href="https://paypal.me/@Harshvardhan022">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
   </a>
-</div>
-
-<hr>
-
-<p align="center">🐍Sname🐍</p>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
 </div>
