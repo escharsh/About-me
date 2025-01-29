@@ -44,34 +44,6 @@ Hi, I'm Harsh<br>I am a B.Tech Student and a passionate Full-Stack Developer, de
 <hr>
 <br>
 
-<p align="center">📊GitHub Stats📊</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuthorius&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuthorius&theme=radical&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuthorius&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
-
-<hr>
-<br>
-
-<p align="center">🏆GitHub Trophies🏆</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuthorius&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-</div>
-
-<hr>
-<br>
-
-<p align="center">🔝Top Contributed Repo🔝</p>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yuthorius&limit=5&theme=radical&combine_all_yearly_contributions=true">
-</div>
-
-<hr>
-<br>
 
 <p align="center"> ✍️Random Dev Quote✍️</p>
 
@@ -81,7 +53,6 @@ Hi, I'm Harsh<br>I am a B.Tech Student and a passionate Full-Stack Developer, de
 
 <hr>
 <br>
-
 
 <p align="center">🐍Sname🐍</p>
 
