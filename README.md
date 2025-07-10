@@ -6,7 +6,7 @@ src=https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyd284ZnN1eG95cDkwZWt4Y2x4bG
 </div>  
   
 <p align="center">  
-  Hi, I'm Harshvardhan<br>  
+  Hi, I'm Harshvardhan👋🏻<br>  
 I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>  
   🚀Vision🚀<br>  
 To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations! </>  
