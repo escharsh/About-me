@@ -1,6 +1,6 @@
 <p align="center">💫About Me💫</p>  
   
-<div align="center"> <img height="151">
+<div align="center"> <img height="151"
 src=https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydXhzNzJlNW9xc3BvN3A0cGkycnp6dzFlN3V5ODc3cWdmbTU0Y3duOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif alt="About Me GIF">  
   
 </div>  
