@@ -1,16 +1,14 @@
 <p align="center">💫About Me💫</p>
 
-<div align="center"> <img height="151"
-
-src="https://media.giphy.com/media /DbXSzkKLzy96e3uuk/giphy.gif" alt="About Me GIF">
-
+<div align="center">
+  <img height="151" src="https://media.giphy.com/media/DbXSzkKLzy96e3uuk/giphy.gif" alt="About Me GIF">
 </div>
 
 <p align="center">
   Hi, I'm Harshvardhan<br>
-I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>
+  I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>
   🚀Vision🚀<br>
-To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations! </>
+  To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations! </>
 </p>
 
 <hr>
@@ -19,10 +17,10 @@ To add value in the world by creating products at the intersection of design and
 <p align="center">🌐Socials🌐</p>
 
 <div align="center">
-  <a href=https://www.instagram.com/escharsh?igsh=MTducXUxejBwZ3E5dA==>
+  <a href="https://www.instagram.com/escharsh?igsh=MTducXUxejBwZ3E5dA==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
   </a>
-  <a href=https://www.linkedin.com/in/harsh-vardhan-6748a632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
+  <a href="https://www.linkedin.com/in/harsh-vardhan-6748a632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
   </a>
 </div>
@@ -58,19 +56,4 @@ To add value in the world by creating products at the intersection of design and
 <hr>
 <br>
 
-<p align="center">🐍Snake🐍</p>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg">
-</div>
-
-<hr>
-<br>
-
-<p align="center">💰You can help me by Donating💰</p>
-
-<div align="center">
-  <a href="https://paypal.me/@Harshvardhan022">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-  </a>
-</div>
+<p
