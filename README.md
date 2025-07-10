@@ -19,7 +19,7 @@ To add value in the world by creating products at the intersection of design and
 <p align="center">🌐Socials🌐</p>
 
 <div align="center">
-  <a href="https://instagram.com/escharshu">
+  <a href=https://www.instagram.com/escharsh?igsh=MTducXUxejBwZ3E5dA==>
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
   </a>
   <a href=https://www.linkedin.com/in/harsh-vardhan-6748a632a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app>
