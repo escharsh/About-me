@@ -1,7 +1,7 @@
 <p align="center">💫About Me💫</p>
 
 <div align="center">
-  <img height="151" src=https://giphy.com/gifs/endangeredlabs-DbXSzkKLzy96e3uukf />
+  <img height="151" src=https://giphy.com/gifs/endangeredlabs-DbXSzkKLzy96e3uuk
 </div>
 
 <p align="center">
