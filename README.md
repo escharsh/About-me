@@ -12,7 +12,7 @@ I am a B.Tech student specializing in Artificial Intelligence, with a strong pas
 
 I am continuously expanding my technical expertise through real-world projects, modern development practices, and problem-solving challenges. My interests include software engineering, web development, and creating impactful technology solutions that deliver practical value.
 
-Technical Skills: Java, Python, JavaScript, React.js </>  
+Technical Skills: Java, Python, JavaScript, React.js 
 </p>  
   
 <hr>  
