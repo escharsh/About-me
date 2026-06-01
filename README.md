@@ -11,8 +11,6 @@ src=https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyd284ZnN1eG95cDkwZWt4Y2x4bG
 I am a B.Tech student specializing in Artificial Intelligence, with a strong passion for developing scalable, efficient, and user-centric applications. With a solid foundation in both front-end and back-end technologies, I focus on building high-quality digital solutions that emphasize clean architecture, performance, and seamless user experiences.
 
 I am continuously expanding my technical expertise through real-world projects, modern development practices, and problem-solving challenges. My interests include software engineering, web development, and creating impactful technology solutions that deliver practical value.
-
-Technical Skills: Java, Python, JavaScript, React.js 
 </p>  
   
 <hr>  
