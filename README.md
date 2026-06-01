@@ -6,8 +6,13 @@ src=https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyd284ZnN1eG95cDkwZWt4Y2x4bG
 </div>  
   
 <p align="center">  
-  Hi, I'm Harshvardhan 👋🏻<br>  
-I am a B.Tech Student and a passionate Full-Stack Developer, dedicated to building dynamic and scalable web applications. With expertise in both Front-End and Back-End Development, I strive to create seamless digital experiences that are efficient, user-friendly, and impactful.<br><br>  
+  Hi, I’m Harsh 👋
+
+I am a B.Tech student specializing in Artificial Intelligence, with a strong passion for developing scalable, efficient, and user-centric applications. With a solid foundation in both front-end and back-end technologies, I focus on building high-quality digital solutions that emphasize clean architecture, performance, and seamless user experiences.
+
+I am continuously expanding my technical expertise through real-world projects, modern development practices, and problem-solving challenges. My interests include software engineering, web development, and creating impactful technology solutions that deliver practical value.
+
+Technical Skills: Java, Python, JavaScript, React.js
   🚀Vision🚀<br>  
 To add value in the world by creating products at the intersection of design and technology. Let’s chat and exchange ideas, projects, and innovations! </>  
 </p>  
