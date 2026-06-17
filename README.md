@@ -6,7 +6,7 @@ src=https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyd284ZnN1eG95cDkwZWt4Y2x4bG
 </div>  
   
 <p align="center">  
-  Hi, I’m Harsh 👋
+  Hi, I’m Harshvardhan 👋
 
 I am a B.Tech student specializing in Artificial Intelligence, with a strong passion for developing scalable, efficient, and user-centric applications. With a solid foundation in both front-end and back-end technologies, I focus on building high-quality digital solutions that emphasize clean architecture, performance, and seamless user experiences.
 
